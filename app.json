@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "FlashCards",
-    "slug": "FlashCards",
+    "name": "MobileFlashcards",
+    "slug": "MobileFlashcards",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "FlashCards"
+  "name": "MobileFlashcards"
 }
