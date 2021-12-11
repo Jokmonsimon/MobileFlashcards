@@ -1,6 +1,10 @@
 # MOBILE FLASHCARDS
 
-Mobile Flashcards is the final Udacity React Nanodegree project to help learner showcase what he or she has learned in react native
+Mobile Flashcards is the final Udacity React Nanodegree project to help learner showcase what he or she has learned in react native.
+
+## Acknowledgement
+
+This project was made possible from the work [Gary Vladimir Núñez López](https://github.com/gary-vladimir/Mobile-Flashcards.git). Special thank for the guidance and support rendered to make this project a success.
 
 ## Installation
 
@@ -10,37 +14,36 @@ Clone this repository and run
 git clone https://github.com/Jokmonsimon/MobileFlashcards.git
 ```
 
-Run
+## Install packages
+
+`cd` to project directory and run
 
 ```bash
-yarn or npm install
+yarn
+```
+
+or
+
+```bash
+npm install
 ```
 
 ## Usage
 
-to start the app simply run:
+Start the app simply by running:
 
 ```bash
 yarn start
 ```
 
-then you can scan the QR code with your smart phone to use the app or you can run it with the web option.
+Scan the QR code with your smartphone to use the app on android or ios, or press W to run it on the web.
 
-this app has being tested in the following devices (iphone 7 plus, iphone X, ipad pro)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## Images of the App
-
-![one](./result_images/one.png)
-![two](./result_images/two.png)
+This app has being tested using andriod phone only but can also work in ios.
 
 # Author
 
-## Refereneces
+Ojok Simon Peter <ojoksimonpeter1993@gmail.com>
 
-Gary Vladimir Núñez López
+## Reference
+
+[Gary Vladimir Núñez López](https://github.com/gary-vladimir/Mobile-Flashcards.git)
