@@ -4,7 +4,13 @@ Mobile Flashcards is the final Udacity React Nanodegree project to help learner 
 
 ## Installation
 
-clone this repository and run
+Clone this repository and run
+
+```bash
+git clone https://github.com/Jokmonsimon/MobileFlashcards.git
+```
+
+Run
 
 ```bash
 yarn or npm install
