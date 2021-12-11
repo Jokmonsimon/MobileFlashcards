@@ -4,17 +4,15 @@ Mobile Flashcards is the final Udacity React Nanodegree project to help learner 
 
 ## Acknowledgement
 
-This project was made possible from the work [Gary Vladimir Núñez López](https://github.com/gary-vladimir/Mobile-Flashcards.git). Special thank for the guidance and support rendered to make this project a success.
+This project was made possible from the work [Gary Vladimir Nunez Lopez](https://github.com/gary-vladimir/Mobile-Flashcards.git). Special thank for the guidance and support rendered to make this project a success.
 
 ## Installation
 
-Clone this repository and run
+Clone this repository by running
 
 ```bash
 git clone https://github.com/Jokmonsimon/MobileFlashcards.git
 ```
-
-## Install packages
 
 `cd` to project directory and run
 
@@ -46,4 +44,4 @@ Ojok Simon Peter <ojoksimonpeter1993@gmail.com>
 
 ## Reference
 
-[Gary Vladimir Núñez López](https://github.com/gary-vladimir/Mobile-Flashcards.git)
+[Gary Vladimir Nunez Lopez](https://github.com/gary-vladimir/Mobile-Flashcards.git)
